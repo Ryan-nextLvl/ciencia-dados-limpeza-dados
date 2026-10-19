@@ -1,0 +1,9 @@
+# Datasets de terceiros (baixe conforme o README)
+*.csv
+*.xlsx
+ex3/adult.*
+ex3/old.adult.names
+ex3/Index
+*.zip
+__pycache__/
+.ipynb_checkpoints/
